@@ -7,6 +7,7 @@ const userRoutes = require("./routes/users");
 const authRoutes = require("./routes/auth");
 
 // database connection
+
 connection();
 
 // middlewares
